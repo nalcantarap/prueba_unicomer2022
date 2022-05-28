@@ -1,0 +1,5 @@
+insert into customer (first_name,last_name,birthday,gender,cellphone,homephone,addresshome,profession,incomes)values('Mario','Terrones','1980-02-03','M',999999999,55555555,'Husares de junin 324 - Las condes','Abogado',3000000);
+insert into customer (first_name,last_name,birthday,gender,cellphone,homephone,addresshome,profession,incomes)values('Julio','Albornoz','1981-04-03','M',999999991,44444444,'Av San Francisco 7543 - Santiago','Administrador',3000000);
+insert into customer (first_name,last_name,birthday,gender,cellphone,homephone,addresshome,profession,incomes)values('Maria','Sanchez','1975-06-13','M',999999992,33333333,'Moneda 3423 - Santiago','Ingeniero en minas',3000000);
+insert into customer (first_name,last_name,birthday,gender,cellphone,homephone,addresshome,profession,incomes)values('Daniela','Quispe','1987-01-25','M',999999993,22222222,'Los naranjos 5243 - Providencia','Doctora',3000000);
+insert into users(name,username,password,active)values('Noe Alcantara','nalcantara','Wiutui876gQTkh',true);
